@@ -1,0 +1,9 @@
+module-info.class
+mezyk/mateusz/hotelapi/domain/model/RoomsCalculationRequest.class
+mezyk/mateusz/hotelapi/domain/model/PotentialGuest.class
+mezyk/mateusz/hotelapi/domain/ports/input/RoomOccupancyCalculator.class
+mezyk/mateusz/hotelapi/domain/model/HotelSchema.class
+mezyk/mateusz/hotelapi/domain/ports/output/PotentialGuestsRepository.class
+mezyk/mateusz/hotelapi/domain/model/RoomsCalculationResponse.class
+mezyk/mateusz/hotelapi/domain/model/HotelSchema$HotelSchemaViolationException.class
+mezyk/mateusz/hotelapi/domain/ports/input/BasicRoomOccupancyCalculator.class

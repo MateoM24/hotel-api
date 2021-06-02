@@ -1,0 +1,8 @@
+/home/mateo/IdeaProjects/hotel-api/domain/src/main/java/mezyk/mateusz/hotelapi/domain/model/PotentialGuest.java
+/home/mateo/IdeaProjects/hotel-api/domain/src/main/java/mezyk/mateusz/hotelapi/domain/ports/input/RoomOccupancyCalculator.java
+/home/mateo/IdeaProjects/hotel-api/domain/src/main/java/mezyk/mateusz/hotelapi/domain/model/HotelSchema.java
+/home/mateo/IdeaProjects/hotel-api/domain/src/main/java/mezyk/mateusz/hotelapi/domain/model/RoomsCalculationRequest.java
+/home/mateo/IdeaProjects/hotel-api/domain/src/main/java/mezyk/mateusz/hotelapi/domain/ports/input/BasicRoomOccupancyCalculator.java
+/home/mateo/IdeaProjects/hotel-api/domain/src/main/java/mezyk/mateusz/hotelapi/domain/model/RoomsCalculationResponse.java
+/home/mateo/IdeaProjects/hotel-api/domain/src/main/java/module-info.java
+/home/mateo/IdeaProjects/hotel-api/domain/src/main/java/mezyk/mateusz/hotelapi/domain/ports/output/PotentialGuestsRepository.java

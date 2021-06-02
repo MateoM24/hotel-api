@@ -1,0 +1,6 @@
+/home/mateo/IdeaProjects/hotel-api/infrastructure/src/main/java/mezyk/mateusz/hotelapi/infrastructure/endpoint/controllers/HotelBookingController.java
+/home/mateo/IdeaProjects/hotel-api/infrastructure/src/main/java/mezyk/mateusz/hotelapi/infrastructure/database/PotentialGuestsStubRepository.java
+/home/mateo/IdeaProjects/hotel-api/infrastructure/src/main/java/mezyk/mateusz/hotelapi/infrastructure/endpoint/mappers/ModelDtoMapper.java
+/home/mateo/IdeaProjects/hotel-api/infrastructure/src/main/java/mezyk/mateusz/hotelapi/infrastructure/endpoint/dto/HotelAccommodationResponseDto.java
+/home/mateo/IdeaProjects/hotel-api/infrastructure/src/main/java/mezyk/mateusz/hotelapi/infrastructure/endpoint/exception/handler/RestExceptionHandler.java
+/home/mateo/IdeaProjects/hotel-api/infrastructure/src/main/java/mezyk/mateusz/hotelapi/infrastructure/application/HotelApiApplication.java
